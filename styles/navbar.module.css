@@ -1,0 +1,7 @@
+.list{
+  background-color: var(--info-color);
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-between;
+}
